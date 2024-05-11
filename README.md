@@ -20,13 +20,6 @@ For further information, please view my [LinkedIn profile](https://www.linkedin.
 - **Ministry of Finance**
   - Finance Intern (Jul 2020 – Apr 2021)
 
-## Projects
-
-- **Usage Analysis of London Santander Bikes Pre, During, and Post-COVID**
-  - Conducted a thorough analysis to determine the impact of the COVID-19 pandemic on bike-sharing usage patterns.
-
-- **Lead Conversion Project Using CRISP-DM Methodology**
-  - Implemented data mining techniques to enhance lead conversion rates for a marketing campaign.
 
 ## Skills
 
